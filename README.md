@@ -1,6 +1,3 @@
-# vibe_matcher
-AI-powered vibe-based fashion recommender prototype
-
 # 🎧 Vibe Matcher – AI Fashion Recommender
 
 **Built by:** Pratik Pattanayak  
@@ -35,6 +32,6 @@ Vibe Matcher is an AI-powered mini recommendation system that matches fashion pr
 
 <img width="778" height="440" alt="image" src="https://github.com/user-attachments/assets/8b6618df-ae6b-42e4-8d55-08c5e0097528" />
 
-##✨Why AI @ Nexora
+## ✨Why AI @ Nexora
 AI at Nexora represents the intersection of innovation, creativity, and real-world problem solving. Nexora’s focus on building intelligent systems that understand human intent and deliver personalized, data-driven experiences deeply aligns with my passion for applied AI. I’m inspired by how Nexora integrates technology with empathy — designing solutions that not only automate but also elevate user experience. Joining this environment would allow me to contribute to impactful AI products while learning from a culture that values experimentation, precision, and continuous growth.
 
