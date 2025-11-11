@@ -1,0 +1,12 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+openai
+matplotlib
+seaborn
+tqdm
+
+# Optional (for notebook environment)
+jupyter
+notebook
